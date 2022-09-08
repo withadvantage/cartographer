@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/cartographer-cotuk/static/css/main.073c9b0a.css",
-    "main.js": "/cartographer-cotuk/static/js/main.eb283708.js",
-    "static/js/787.4f9da4d9.chunk.js": "/cartographer-cotuk/static/js/787.4f9da4d9.chunk.js",
-    "static/media/logo.svg": "/cartographer-cotuk/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/cartographer-cotuk/index.html",
-    "main.073c9b0a.css.map": "/cartographer-cotuk/static/css/main.073c9b0a.css.map",
-    "main.eb283708.js.map": "/cartographer-cotuk/static/js/main.eb283708.js.map",
-    "787.4f9da4d9.chunk.js.map": "/cartographer-cotuk/static/js/787.4f9da4d9.chunk.js.map"
+    "main.css": "/cartographer/static/css/main.72d7d78b.css",
+    "main.js": "/cartographer/static/js/main.43e35ac0.js",
+    "static/js/787.9954a983.chunk.js": "/cartographer/static/js/787.9954a983.chunk.js",
+    "index.html": "/cartographer/index.html",
+    "main.72d7d78b.css.map": "/cartographer/static/css/main.72d7d78b.css.map",
+    "main.43e35ac0.js.map": "/cartographer/static/js/main.43e35ac0.js.map",
+    "787.9954a983.chunk.js.map": "/cartographer/static/js/787.9954a983.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.eb283708.js"
+    "static/css/main.72d7d78b.css",
+    "static/js/main.43e35ac0.js"
   ]
 }
